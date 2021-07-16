@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![AlienRecall's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienRecall&show_icons=true&theme=radical&include_all_commits=True&count_private=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienRecall&langs_count=5)
+![AlienRecall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlienRecall)
+
 <!--
 **AlienRecall/AlienRecall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
