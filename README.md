@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Class 02, coding, anime and emd music lover
+### - Class 02. Coding, Anime and EDM music lover
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3CKIHq8u79oAAAAd/fire-force-benimaru.gif">
 
