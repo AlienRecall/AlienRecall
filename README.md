@@ -1,20 +1,90 @@
-### Hi there 👋
+# Hi 👋
 
-![AlienRecall's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienRecall&show_icons=true&theme=radical&include_all_commits=True&count_private=True)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienRecall&langs_count=5)
-![AlienRecall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlienRecall)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/5I1x4ODED3oAAAAC/steins-gate-hi-steins-gate-hi-chat.gif">
+</div>
 
-<!--
-**AlienRecall/AlienRecall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
+</br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About ME 💬 :
+
+### - Class 02, coding, anime and emd music lover
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3CKIHq8u79oAAAAd/fire-force-benimaru.gif">
+
+### - Learning :
+- Rust 🦀
+- C++
+- Java
+
+### - Hobbies : 
+- Watching Anime (◕‿◕)
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="golang" width="75" hight="50">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"  width="120" hight="50">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" width="123" hight="50">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" width="150" hight="50">
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="electron" width="135" hight="50">
+</br>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="120" hight="50">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" width="152" hight="50">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" width="165" hight="50">
+</br>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" width="83" hight="50">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" width="150" hight="50">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" width="93" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<!-- <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif"> -->
+
+
+Feel free to contact me anytime 😇
+
+<a href="mailto:hypenwave@gmail.com">
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
+</a>
+<a href="https://twitter.com/AlienRecall">
+  <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20140103174351%21Twitter_bird_logo.png" />
+<a href="https://discords.com/bio/p/AlienRecall">
+  <img align="left" alt="Twitter" width="50" hight="50" src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png" />
+</br>
+</br>
+</br>
+</a>
+ </p>
+
+
+You can also check my Wakatime for more detailed informations:
+<p >  
+  <a href="https://wakatime.com/@AlienRecall"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=AlienRecall&show_icons=true&theme=dark&include_all_commits=True&count_private=True"/>
+  </a>
+  </p>
+
+*************
