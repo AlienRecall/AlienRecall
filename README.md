@@ -22,6 +22,7 @@
 
 ### - Hobbies : 
 - Watching Anime (◕‿◕)
+- Valorant
 
 </br>
 </br>
