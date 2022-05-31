@@ -61,10 +61,6 @@
 
 # Contact Me :
 
-<p>
- </br>
-
-
 <!-- <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif"> -->
 
 
@@ -81,7 +77,6 @@ Feel free to contact me anytime 😇
 </br>
 </br>
 </a>
- </p>
 
 
 You can also check my Wakatime for more detailed informations:
