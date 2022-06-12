@@ -66,9 +66,9 @@
 
 Feel free to contact me anytime 😇
 
-<a href="mailto:hypenwave@gmail.com">
+<!--<a href="mailto:hypenwave@gmail.com">
  <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
-</a>
+</a>-->
 <a href="https://twitter.com/AlienRecall">
   <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20140103174351%21Twitter_bird_logo.png" />
 <a href="https://discords.com/bio/p/AlienRecall">
