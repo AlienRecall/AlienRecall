@@ -37,7 +37,6 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="golang" width="75" hight="50">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"  width="120" hight="50">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" width="123" hight="50">
@@ -61,14 +60,9 @@
 
 # Contact Me :
 
-<!-- <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif"> -->
-
 
 Feel free to contact me anytime 😇
 
-<!--<a href="mailto:hypenwave@gmail.com">
- <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />
-</a>-->
 <a href="https://twitter.com/AlienRecall">
   <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20140103174351%21Twitter_bird_logo.png" />
 <a href="https://discords.com/bio/p/AlienRecall">
