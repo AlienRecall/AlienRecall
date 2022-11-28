@@ -19,8 +19,7 @@
 
 ### - Learning :
 - Rust 🦀
-- C++
-- Java
+- C
 
 ### - Hobbies : 
 - Watching Anime (◕‿◕)
