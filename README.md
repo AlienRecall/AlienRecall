@@ -78,7 +78,7 @@ You can also check my Wakatime for more detailed informations:
     <img src="https://github-readme-stats.vercel.app/api?username=AlienRecall&show_icons=true&theme=dark&include_all_commits=True&count_private=True"/>
   </a>
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cld7drixr04130flhx5hlz162/stats?cursusId=21&coalitionId=125" alt="lfrancav's 42 stats" />
+    <img src="https://badge42.vercel.app/api/v2/cld7drixr04130flhx5hlz162/stats?cursusId=21&coalitionId=125" alt="lfrancav's 42 stats"/>
   </a>  
 </p>
 
