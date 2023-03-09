@@ -22,8 +22,8 @@
 - C
 
 ### - Hobbies : 
-- Watching Anime (◕‿◕)
-- Valorant
+- Watching Anime
+- Doing random stuff
 
 </br>
 </br>
