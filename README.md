@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Class 02. Coding, Anime and EDM music lover
+### - Class 02. Coding, Anime and Music lover
 - Currently working on [owlaio](https://twitter.com/owl_aio) and private projects
 - Open source enthusiast
 
