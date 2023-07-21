@@ -21,10 +21,6 @@
 - Rust 🦀
 - C
 
-### - Hobbies : 
-- Watching Anime
-- Doing random stuff
-
 </br>
 </br>
 </br>
