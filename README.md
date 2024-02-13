@@ -20,6 +20,7 @@
 ### - Learning :
 - Rust 🦀
 - C
+- Smart contract development
 
 </br>
 </br>
@@ -60,7 +61,7 @@
 Feel free to contact me anytime 😇
 
 <a href="https://twitter.com/AlienRecall">
-  <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20140103174351%21Twitter_bird_logo.png" />
+  <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />
 <a href="https://discords.com/bio/p/AlienRecall">
   <img align="left" alt="Twitter" width="50" hight="50" src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png" />
 </br>
@@ -71,12 +72,12 @@ Feel free to contact me anytime 😇
 
 You can also check my Wakatime for more detailed informations:
 <p >  
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/lfrancav?1337Badge=off&UM6P=off" alt="lfrancav's 42 stats" />
+  </a>
   <a href="https://wakatime.com/@AlienRecall"> 
     <img src="https://github-readme-stats.vercel.app/api?username=AlienRecall&show_icons=true&theme=dark&include_all_commits=True&count_private=True"/>
-  </a>
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cld7drixr04130flhx5hlz162/stats?cursusId=21&coalitionId=125" alt="lfrancav's 42 stats"/>
-  </a>  
+  </a> 
 </p>
 
 *************
