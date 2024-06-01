@@ -62,7 +62,7 @@ Feel free to contact me anytime 😇
 
 <a href="https://twitter.com/AlienRecall">
   <img align="left" alt="Twitter" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />
-<a href="https://discords.com/bio/p/AlienRecall">
+<a href="https://dsc.bio/alienrecall">
   <img align="left" alt="Twitter" width="50" hight="50" src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png" />
 </br>
 </br>
