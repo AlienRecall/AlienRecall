@@ -71,14 +71,10 @@
         <br>
         <br>
     </a>
-    <p dir="auto">You can also check my Wakatime for more detailed informations (my wakatime sucks since is not available on Zed editor, but has still some statistics):</p>
     <p dir="auto">
-        <a href="https://github.com/oakoudad/badge42">
-            <img src="https://badge.mediaplus.ma/greenbinary/lfrancav?1337Badge=off&amp;UM6P=off" alt="lfrancav's 42 stats" style="max-width: 100%;">
-        </a>
-        <a href="https://wakatime.com/@AlienRecall" rel="nofollow">
-            <img src="https://github-readme-stats.vercel.app/api?username=AlienRecall&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=True&amp;count_private=True" style="max-width: 100%;">
-        </a>
+        <!-- <a href="https://wakatime.com/@AlienRecall" rel="nofollow"> -->
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlienRecall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AlienRecall&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=monokai&hide_border=false">
     </p>
     <hr>
 </article>
